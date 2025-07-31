@@ -1,6 +1,2 @@
-- op: replace
-  path: /spec/source/repoURL
-  value: 'https://github.com/Carlos-ZRM/ai-accelerator.git'
-- op: replace
-  path: /spec/source/targetRevision
-  value: main
+- op: remove
+  path: /spec/syncPolicy
