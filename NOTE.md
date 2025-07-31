@@ -39,3 +39,11 @@ components/operators
     ├── instance
     └── operator
 ~~~
+
+# Dashboard
+
+https://github.com/opendatahub-io/notebooks/tree/main
+
+https://github.com/opendatahub-io/notebooks/blob/main/docs/developer-guide.md
+
+https://github.com/opendatahub-io/notebooks/wiki/Workbenches 
