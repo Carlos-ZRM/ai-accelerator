@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: diplomado-dc.yaml
+  labels:
+    opendatahub.io/dashboard: "true"
+    kubernetes.io/metadata.name: diplomado-dc
+    modelmesh-enabled: "true"
